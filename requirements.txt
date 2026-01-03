@@ -1,0 +1,11 @@
+streamlit
+torch
+torchvision
+numpy
+opencv-python
+Pillow
+plotly
+pandas
+matplotlib
+huggingface-hub
+streamlit-image-coordinates
