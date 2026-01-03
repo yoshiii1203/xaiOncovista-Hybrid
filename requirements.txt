@@ -2,7 +2,7 @@ streamlit
 torch
 torchvision
 numpy
-opencv-python
+opencv-python-headless
 Pillow
 plotly
 pandas
